@@ -1,4 +1,4 @@
-AIsthetic
+
 Welcome to AIsthetic – your personal AI-powered interior designer, built for those who crave both style and smarts in their spaces!
 
 ✨ What is AIsthetic?
