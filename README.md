@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YHRkbxytMjllXEZSVAMZHn3NLzwczewS?usp=sharing)
+
 
 Welcome to AIsthetic – your personal AI-powered interior designer, built for those who crave both style and smarts in their spaces!
 
